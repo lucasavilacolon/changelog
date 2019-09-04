@@ -3,7 +3,8 @@
 mac: https://docs.docker.com/docker-for-mac/
 windows: https://docs.docker.com/docker-for-windows/)
 
-* Para crear la db de mysql se puede correr el script del directorio mysql ./db.sh (db.bat en windows) esto generará una db en el puerto 3306
+* Para crear la db de mysql se puede correr el script del directorio mysql ./db.sh (db.bat en windows)
+una vez creada se pueden loguear con usuario: root, pass: root, puerto 3306 crear el schema "emisqlasis"
 
 * Para ejecutar con Linux/Mac/Windows las modificaciones sobre la base de datos.
 
