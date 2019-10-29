@@ -1,3 +1,3 @@
 databaseChangeLog = {
-	include file: 'features/alter-table-product-v1.groovy'
+	include file: 'features/alter-table-orderhdr.groovy'
 }
