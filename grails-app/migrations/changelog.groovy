@@ -8,6 +8,8 @@ databaseChangeLog = {
 	include file: 'features/alter-table-orderspayment.groovy'
 	include file: 'features/alter-table-orderhdr-2.groovy'
 	include file: 'features/alter-table-clients-1.groovy'
-	include file: 'features/add-config.groovy'
+	include file: 'features/add-config-1.groovy'
+	include file: 'features/add-config-2.groovy'
+	
 
 }
