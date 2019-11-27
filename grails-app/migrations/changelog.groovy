@@ -12,5 +12,7 @@ databaseChangeLog = {
 	include file: 'features/add-config-2.groovy'
 	include file: 'features/alter-table-orderspayment2.groovy'
 	include file: 'features/alter-table-review_values.groovy'
+	include file: 'features/test-api-url.groovy.groovy'
+	
 
 }
