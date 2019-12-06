@@ -14,5 +14,6 @@ databaseChangeLog = {
 	include file: 'features/alter-table-review_values.groovy'
 	include file: 'features/test-api-url.groovy'
 	include file: 'features/alter-table-fieldlist.groovy'
+	include file: 'features/alter-table-products-1.groovy'
 
 }
