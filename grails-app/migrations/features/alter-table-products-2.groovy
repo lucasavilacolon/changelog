@@ -1,6 +1,6 @@
 databaseChangeLog = {
 
-    changeSet(author: "German Middi", id: "alter-table-products-1") {
+    changeSet(author: "German Middi", id: "alter-table-products-2") {
 
         grailsChange {
             change {
