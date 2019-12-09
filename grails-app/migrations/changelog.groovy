@@ -16,5 +16,12 @@ databaseChangeLog = {
 	include file: 'features/alter-table-fieldlist.groovy'
 	include file: 'features/alter-table-products-2.groovy'
 	include file: 'features/alter-table-products-3.groovy'
-	include file: 'features/alter-table-products-4.groovy'	
+	include file: 'features/alter-table-products-4.groovy'
+	include file: 'features/alter-table-fieldlist-1.groovy'	
+	include file: 'features/alter-table-registrationform.groovy'	
+	include file: 'features/alter-table-faq.groovy'	
+	include file: 'features/alter-table-rel_prod_faqs.groovy'	
+	
+	
+	
 }
