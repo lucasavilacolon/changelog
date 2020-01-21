@@ -39,7 +39,7 @@ databaseChangeLog = {
 	include file: 'features/truncate-rel_prod_faqs.groovy'
 	include file: 'features/truncate-rel_prod_features.groovy'
 	include file: 'features/truncate-reviews.groovy'
-	include file: 'features/truncate-users.groovy'
+//	include file: 'features/truncate-users.groovy'
 	
 	
 	
