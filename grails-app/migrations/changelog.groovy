@@ -48,7 +48,7 @@ databaseChangeLog = {
 	include file: 'features/insert-table-gral_text.groovy'	
 	include file: 'features/alter-table-orders_reg_forms-1.groovy'
 	include file: 'features/alter-table-clients-2'
-	include file: 'features/alter-table-clients-3'	
-	
+	include file: 'features/alter-table-clients-3'
+	include file: 'features/alter-table-products-6'
 	
 }
