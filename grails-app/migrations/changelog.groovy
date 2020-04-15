@@ -50,5 +50,6 @@ databaseChangeLog = {
 	include file: 'features/alter-table-clients-2'
 	include file: 'features/alter-table-clients-3'
 	include file: 'features/alter-table-products-6'
+	include file: 'features/alter-table-products-7'
 	
 }
