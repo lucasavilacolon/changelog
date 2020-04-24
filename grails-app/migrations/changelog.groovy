@@ -50,7 +50,7 @@ databaseChangeLog = {
 	include file: 'features/alter-table-clients-2.groovy'
 	include file: 'features/alter-table-clients-3.groovy'
 	include file: 'features/alter-table-products-6.groovy'
-	include file: 'features/rel_prod_features-1.groovy',
+	include file: 'features/rel_prod_features-1.groovy'
 	include file: 'features/alter-table-clients-4.groovy'
 
 }
