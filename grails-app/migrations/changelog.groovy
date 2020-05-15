@@ -54,4 +54,6 @@ databaseChangeLog = {
 	include file: 'features/alter-table-clients-4.groovy'
 	include file: 'features/alter-table-orderhdr-3.groovy'	
 	include file: 'features/alter-table-features-1.groovy'
+	include file: 'features/create-table-home-sections.groovy'
+	include file: 'features/create-table-section-partials.groovy'
 }
