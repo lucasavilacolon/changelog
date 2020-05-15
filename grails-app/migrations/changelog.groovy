@@ -63,5 +63,7 @@ databaseChangeLog = {
 	include file: 'features/alter-table-home-partials-2.groovy'
 	include file: 'features/alter-table-home-elements.groovy'
 	include file: 'features/insert-home-sections.groovy'
-	include file: 'features/insert-section-partials.groovy'
+	include file: 'features/insert-section-partials-1.groovy'
+	include file: 'features/insert-section-partials-2.groovy'
+	include file: 'features/insert-section-partials-3.groovy'
 }
