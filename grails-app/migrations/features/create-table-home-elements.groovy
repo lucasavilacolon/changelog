@@ -1,4 +1,4 @@
-sdatabaseChangeLog = {
+databaseChangeLog = {
 
     changeSet(author: "David Rivero", id: "create-table-home-elements") {
 
