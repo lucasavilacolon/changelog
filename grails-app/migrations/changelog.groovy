@@ -66,4 +66,10 @@ databaseChangeLog = {
 	include file: 'features/insert-section-partials-1.groovy'
 	include file: 'features/insert-section-partials-2.groovy'
 	include file: 'features/insert-section-partials-3.groovy'
+	include file: 'features/create-table-ws-provincias.groovy'
+	include file: 'features/create-table-ws-localidades.groovy'
+	include file: 'features/create-table-ws-marcas.groovy'
+	include file: 'features/create-table-ws-logwebservices.groovy'
+	include file: 'features/insert-data-ws-logwebservices-1.groovy'
+	include file: 'features/insert-data-ws-logwebservices-2.groovy'
 }
