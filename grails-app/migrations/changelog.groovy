@@ -72,4 +72,5 @@ databaseChangeLog = {
 	include file: 'features/create-table-ws-logwebservices.groovy'
 	include file: 'features/insert-data-ws-logwebservices-1.groovy'
 	include file: 'features/insert-data-ws-logwebservices-2.groovy'
+	include file: 'features/alter-table-products-8.groovy'
 }
