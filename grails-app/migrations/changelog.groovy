@@ -79,5 +79,6 @@ databaseChangeLog = {
 	include file: 'features/alter-table-promociones-2.groovy'
 	include file: 'features/alter-table-promociones-3.groovy'
 	include file: 'features/alter-table-orderhdr-4.groovy'
-	include file: 'features/alter-table-orderhdr-5.groovy'
+	include file: 'features/create-table-order-requests.groovy'
+	include file: 'features/alter-table-order-requests-1.groovy'
 }
