@@ -75,5 +75,8 @@ databaseChangeLog = {
 	include file: 'features/alter-table-products-8.groovy'
 	include file: 'features/alter-table-products-9.groovy'
 	include file: 'features/alter-table-products-10.groovy'
-	include file: 'features/alter-table-products-11.groovy'	
+	include file: 'features/alter-table-products-11.groovy'
+	include file: 'features/alter-table-products-12.groovy'
+	include file: 'features/alter-table-products-13.groovy'
+	include file: 'features/alter-table-products-14.groovy'
 }
