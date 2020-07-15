@@ -73,4 +73,18 @@ databaseChangeLog = {
 	include file: 'features/insert-data-ws-logwebservices-1.groovy'
 	include file: 'features/insert-data-ws-logwebservices-2.groovy'
 	include file: 'features/alter-table-products-8.groovy'
+	include file: 'features/create-table-tipopromocion.groovy'
+	include file: 'features/create-table-promociones.groovy'
+	include file: 'features/alter-table-promociones-1.groovy'
+	include file: 'features/alter-table-promociones-2.groovy'
+	include file: 'features/alter-table-promociones-3.groovy'
+	include file: 'features/alter-table-orderhdr-4.groovy'
+	include file: 'features/create-table-order-requests.groovy'
+	include file: 'features/alter-table-order-requests-1.groovy'
+	include file: 'features/alter-table-orderhdr-5.groovy'
+	include file: 'features/insert-tipo_promocion-1.groovy'
+	include file: 'features/alter-table-promociones-4.groovy'
+	// include file: 'features/alter-table-promociones-5.groovy'
+	include file: 'features/alter-table-promociones-6.groovy'	
+
 }
