@@ -79,4 +79,7 @@ databaseChangeLog = {
 	include file: 'features/alter-table-products-12.groovy'
 	include file: 'features/alter-table-products-13.groovy'
 	include file: 'features/alter-table-products-14.groovy'
+	include file: 'features/create-table-tipoPartner.groovy'
+	include file: 'features/create-table-partner.groovy'
+
 }
