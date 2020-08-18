@@ -95,5 +95,7 @@ databaseChangeLog = {
 	include file: 'features/create-table-partner.groovy'
 	include file: 'features/create-table-razas.groovy'
 	include file: 'features/insert-razas.groovy'
+	include file: 'features/alter-table-products-15.groovy'
+
 	
 }
