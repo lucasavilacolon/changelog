@@ -87,4 +87,17 @@ databaseChangeLog = {
 	// include file: 'features/alter-table-promociones-5.groovy'
 	include file: 'features/alter-table-promociones-6.groovy'	
 
+	include file: 'features/alter-table-products-9.groovy'
+	include file: 'features/alter-table-products-10.groovy'
+	include file: 'features/alter-table-products-11.groovy'
+	include file: 'features/alter-table-products-12.groovy'
+	include file: 'features/alter-table-products-13.groovy'
+	include file: 'features/alter-table-products-14.groovy'
+	include file: 'features/create-table-tipoPartner.groovy'
+	include file: 'features/create-table-partner.groovy'
+	include file: 'features/create-table-razas.groovy'
+	include file: 'features/insert-razas.groovy'
+	include file: 'features/alter-table-products-15.groovy'
+
+	
 }
