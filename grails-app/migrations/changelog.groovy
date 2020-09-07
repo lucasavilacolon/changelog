@@ -98,6 +98,6 @@ databaseChangeLog = {
 	include file: 'features/create-table-razas.groovy'
 	include file: 'features/insert-razas.groovy'
 	include file: 'features/alter-table-products-15.groovy'
-
+	include file: 'features/alter-table-orders_reg_forms-2.groovy'
 	
 }
