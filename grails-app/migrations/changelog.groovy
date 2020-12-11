@@ -81,10 +81,12 @@ databaseChangeLog = {
 	include file: 'features/alter-table-orderhdr-4.groovy'
 	include file: 'features/create-table-order-requests.groovy'
 	include file: 'features/alter-table-order-requests-1.groovy'
+	include file: 'features/alter-table-orderhdr-5.groovy'
 	include file: 'features/insert-tipo_promocion-1.groovy'
 	include file: 'features/alter-table-promociones-4.groovy'
-	include file: 'features/alter-table-promociones-5.groovy'
+	// include file: 'features/alter-table-promociones-5.groovy'
 	include file: 'features/alter-table-promociones-6.groovy'	
+
 	include file: 'features/alter-table-products-9.groovy'
 	include file: 'features/alter-table-products-10.groovy'
 	include file: 'features/alter-table-products-11.groovy'
@@ -100,6 +102,9 @@ databaseChangeLog = {
 	include file: 'features/alter-table-orders_reg_forms-3.groovy'	
 	include file: 'features/alter-table-products-16.groovy'
 	include file: 'features/alter-table-products-17.groovy'
-	include file: 'features/alter-table-products-18.groovy'	
+	include file: 'features/alter-table-products-18.groovy'
+
+	include file: 'features/alter-table-partner.groovy'
+	include file: 'features/alter-table-partner-1.groovy'	
 	
 }
