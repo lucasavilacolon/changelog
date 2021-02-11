@@ -102,6 +102,9 @@ databaseChangeLog = {
 	include file: 'features/alter-table-orders_reg_forms-3.groovy'	
 	include file: 'features/alter-table-products-16.groovy'
 	include file: 'features/alter-table-products-17.groovy'
-	include file: 'features/alter-table-products-18.groovy'	
+	include file: 'features/alter-table-products-18.groovy'
+
+	include file: 'features/alter-table-partner.groovy'
+	include file: 'features/alter-table-partner-1.groovy'	
 	
 }
