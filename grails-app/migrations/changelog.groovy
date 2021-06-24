@@ -107,6 +107,9 @@ databaseChangeLog = {
 	include file: 'features/alter-table-partner.groovy'
 	include file: 'features/alter-table-partner-1.groovy'	
 	// include file: 'features/alter-table-partner-2.groovy'
-	include file: 'features/alter-table-partner-3.groovy'		
+	include file: 'features/alter-table-partner-3.groovy'
+
+	include file: 'features/alter-table-partner-4.groovy'
+	include file: 'features/alter-table-partner-5.groovy'		
 	
 }
