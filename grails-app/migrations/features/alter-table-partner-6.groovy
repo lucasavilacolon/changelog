@@ -4,7 +4,7 @@ databaseChangeLog = {
 
         grailsChange {
             change {
-                sql.execute("ALTER TABLE `ecolon`.`partners` ADD COLUMN `platform` VARCHAR(45) NULL DEFAULT NULL AFTER `entity_name`;")
+                sql.execute("ALTER TABLE `partners` ADD COLUMN `platform` VARCHAR(45) NULL DEFAULT NULL AFTER `entity_name`;")
 
             }
         }
